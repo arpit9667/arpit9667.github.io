@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.fc5d9386.chunk.css",
-    "main.js": "/static/js/main.5c929014.chunk.js",
-    "main.js.map": "/static/js/main.5c929014.chunk.js.map",
+    "main.js": "/static/js/main.7654d256.chunk.js",
+    "main.js.map": "/static/js/main.7654d256.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b5e0e980.js",
     "runtime-main.js.map": "/static/js/runtime-main.b5e0e980.js.map",
     "static/js/2.1426aa7d.chunk.js": "/static/js/2.1426aa7d.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.7a985149.chunk.js": "/static/js/4.7a985149.chunk.js",
     "static/js/4.7a985149.chunk.js.map": "/static/js/4.7a985149.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f2d1bacbac97723fa2c7aff15fd7d500.js": "/precache-manifest.f2d1bacbac97723fa2c7aff15fd7d500.js",
+    "precache-manifest.0d65105f9df92a125f8edc5bc380a7c9.js": "/precache-manifest.0d65105f9df92a125f8edc5bc380a7c9.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.25727338.chunk.css.map": "/static/css/3.25727338.chunk.css.map",
     "static/css/4.a8329f31.chunk.css.map": "/static/css/4.a8329f31.chunk.css.map",
@@ -25,7 +25,6 @@
     "static/media/coursera.png": "/static/media/coursera.3952f41b.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
     "static/media/gssoc.png": "/static/media/gssoc.67046ac3.png",
-    "static/media/harvardLogo.png": "/static/media/harvardLogo.35ef5e91.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
     "static/media/TalkCard.scss": "/static/media/talksCardBack.13780cdd.svg"
@@ -34,6 +33,6 @@
     "static/js/runtime-main.b5e0e980.js",
     "static/js/2.1426aa7d.chunk.js",
     "static/css/main.fc5d9386.chunk.css",
-    "static/js/main.5c929014.chunk.js"
+    "static/js/main.7654d256.chunk.js"
   ]
 }
